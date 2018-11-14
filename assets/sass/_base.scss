@@ -14,11 +14,11 @@
   --color-grey-dark-3: #999;
 
   // Box Shadow
-  --shadow-dark: box-shadow: 0 2rem 6rem reba(0, 0, 0, .3);
-  --shadow-light: box-shadow: 0 2rem 5rem rgba(0, 0, 0, .06);
+  --shadow-dark: 0 2rem 6rem rgba(0, 0, 0, .3);
+  --shadow-light: 0 2rem 5rem rgba(0, 0, 0, .06);
 
   // Border bottom
-  --line: border-bottom: 1px solid var(--color-grey-light-2)
+  --line: 1px solid var(--color-grey-light-2);
 }
 
 // Global Reset
